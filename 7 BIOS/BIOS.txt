@@ -1,0 +1,70 @@
+============================================================
+  RECOMMENDED BIOS/UEFI SETTINGS FOR GAMING — WinTweaks
+============================================================
+
+These are general recommendations. Your BIOS may have
+different names for these options. Always backup before
+changing BIOS settings.
+
+============================================================
+  CPU SETTINGS
+============================================================
+
+- Intel SpeedStep / AMD Cool'n'Quiet .... DISABLED
+- C-States (C1E, C3, C6, C7) ........... DISABLED
+- Intel Turbo Boost / AMD PBO ........... ENABLED
+- Hyper-Threading / SMT ................. ENABLED (test both)
+- CPU Thermal Throttling ................ ENABLED (safety)
+
+============================================================
+  MEMORY SETTINGS
+============================================================
+
+- XMP / EXPO Profile .................... ENABLED (Profile 1)
+- Memory Frequency ...................... Set to rated speed
+- Command Rate .......................... 1T if stable
+
+============================================================
+  POWER SETTINGS
+============================================================
+
+- ErP Ready ............................. DISABLED
+- Power Loading ......................... ENABLED
+- AC/DC Loadline ........................ Auto or as recommended
+
+============================================================
+  PERIPHERAL SETTINGS
+============================================================
+
+- HPET (High Precision Event Timer) .... Test ON vs OFF
+- Above 4G Decoding .................... ENABLED
+- Resizable BAR / Smart Access Memory ... ENABLED
+- Legacy USB Support .................... DISABLED (if not needed)
+- USB Power in Sleep .................... DISABLED
+
+============================================================
+  STORAGE
+============================================================
+
+- SATA Mode ............................. AHCI (not IDE/RAID)
+- NVMe Boot Priority ................... First boot device
+
+============================================================
+  SECURITY
+============================================================
+
+- Secure Boot ........................... ENABLED (for Win 11)
+- TPM 2.0 .............................. ENABLED (for Win 11)
+- Fast Boot ............................. ENABLED
+
+============================================================
+  NOTES
+============================================================
+
+- After changing settings, test stability with stress tests
+- Disable C-States only if you notice latency issues
+- HPET: try both enabled/disabled, benchmark each
+- XMP profiles may need manual voltage adjustment
+- Always update to latest BIOS version before tweaking
+
+============================================================
