@@ -156,6 +156,19 @@ Windows-Tweaks-2026/
 | Store apps disappeared | Only bloat is removed — reinstall from Microsoft Store |
 | No audio | Check if **AudioSrv** service is still running |
 
+## Keywords
+
+windows tweaks 2026, best windows optimization, fps boost windows,
+gaming tweaks windows 11, debloat windows 10, remove bloatware,
+input lag fix windows, reduce latency pc gaming, registry tweaks gaming,
+powershell optimization scripts, windows telemetry disable,
+privacy tools windows, driver tweaks nvidia amd, tcp optimization gaming,
+timer resolution windows, ultimate performance power plan,
+windows cleanup scripts, ram optimization windows, disable services windows,
+boost fps free, windows tweaker 2026, low latency gaming setup,
+competitive gaming tweaks, windows 11 gaming performance,
+windows 10 pro gaming, best pc tweaks for gaming
+
 ---
 
 ## 📜 License
